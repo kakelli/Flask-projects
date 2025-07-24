@@ -1,0 +1,4519 @@
+{
+  "Andhra Pradesh": {
+    "districts": [
+      {
+        "name": "Anantapur",
+        "population": 4083315,
+        "cities": [
+          "Guntakal",
+          "Tadpatri",
+          "Anantapur",
+          "Dharmavaram",
+          "Hindupur"
+        ]
+      },
+      {
+        "name": "Chittoor",
+        "population": 4170468,
+        "cities": [
+          "Tirupati",
+          "Madanapalle",
+          "Chittoor"
+        ]
+      },
+      {
+        "name": "East Godavari",
+        "population": 5151549,
+        "cities": [
+          "Rajahmundry",
+          "Kakinada"
+        ]
+      },
+      {
+        "name": "Guntur",
+        "population": 4889230,
+        "cities": [
+          "Mangalagiri",
+          "Narasaraopet",
+          "Chilakaluripet",
+          "Guntur",
+          "Tenali"
+        ]
+      },
+      {
+        "name": "Kadapa",
+        "population": 2884524,
+        "cities": []
+      },
+      {
+        "name": "Krishna",
+        "population": 4529009,
+        "cities": [
+          "Vijayawada",
+          "Gudivada",
+          "Machilipatnam"
+        ]
+      },
+      {
+        "name": "Kurnool",
+        "population": 4046601,
+        "cities": [
+          "Kurnool",
+          "Adoni",
+          "Nandyal"
+        ]
+      },
+      {
+        "name": "Prakasam",
+        "population": 3392764,
+        "cities": [
+          "Ongole"
+        ]
+      },
+      {
+        "name": "Sri Potti Sriramulu Nellore",
+        "population": 2966082,
+        "cities": [
+          "Nellore"
+        ]
+      },
+      {
+        "name": "Srikakulam",
+        "population": 2699471,
+        "cities": [
+          "Srikakulam"
+        ]
+      },
+      {
+        "name": "Visakhapatnam",
+        "population": 4288113,
+        "cities": [
+          "GVMC"
+        ]
+      },
+      {
+        "name": "Vizianagaram",
+        "population": 2342868,
+        "cities": [
+          "Vizianagaram"
+        ]
+      },
+      {
+        "name": "West Godavari",
+        "population": 3934782,
+        "cities": [
+          "Tadepalligudem",
+          "Eluru",
+          "Bhimavaram"
+        ]
+      }
+    ]
+  },
+  "Arunachal Pradesh": {
+    "districts": [
+      {
+        "name": "Anjaw",
+        "population": 21089,
+        "cities": []
+      },
+      {
+        "name": "Changlang",
+        "population": 147951,
+        "cities": []
+      },
+      {
+        "name": "East Kameng",
+        "population": 78413,
+        "cities": []
+      },
+      {
+        "name": "East Siang",
+        "population": 99019,
+        "cities": []
+      },
+      {
+        "name": "Kamle",
+        "population": 22256,
+        "cities": []
+      },
+      {
+        "name": "Kra Daadi",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Kurung Kumey",
+        "population": 89717,
+        "cities": []
+      },
+      {
+        "name": "Lepa Rada",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Lohit",
+        "population": 145538,
+        "cities": []
+      },
+      {
+        "name": "Longding",
+        "population": 60000,
+        "cities": []
+      },
+      {
+        "name": "Lower Dibang Valley",
+        "population": 53986,
+        "cities": []
+      },
+      {
+        "name": "Lower Siang",
+        "population": 80597,
+        "cities": []
+      },
+      {
+        "name": "Lower Subansiri",
+        "population": 82839,
+        "cities": []
+      },
+      {
+        "name": "Namsai",
+        "population": 95950,
+        "cities": []
+      },
+      {
+        "name": "Pakke-Kessang",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Papum Pare",
+        "population": 176385,
+        "cities": []
+      },
+      {
+        "name": "Shi Yomi",
+        "population": 13310,
+        "cities": []
+      },
+      {
+        "name": "Siang",
+        "population": 31920,
+        "cities": []
+      },
+      {
+        "name": "Tawang",
+        "population": 49950,
+        "cities": []
+      },
+      {
+        "name": "Tirap",
+        "population": 111997,
+        "cities": []
+      },
+      {
+        "name": "Upper Dibang Valley",
+        "population": 7948,
+        "cities": []
+      },
+      {
+        "name": "Upper Siang",
+        "population": 35289,
+        "cities": []
+      },
+      {
+        "name": "Upper Subansiri",
+        "population": 83205,
+        "cities": []
+      },
+      {
+        "name": "West Kameng",
+        "population": 87013,
+        "cities": []
+      },
+      {
+        "name": "West Siang",
+        "population": 112272,
+        "cities": []
+      }
+    ]
+  },
+  "Assam": {
+    "districts": [
+      {
+        "name": "Baksa",
+        "population": 953773,
+        "cities": []
+      },
+      {
+        "name": "Barpeta",
+        "population": 1693190,
+        "cities": []
+      },
+      {
+        "name": "Bishwanath",
+        "population": 612491,
+        "cities": []
+      },
+      {
+        "name": "Bongaigaon",
+        "population": 732639,
+        "cities": []
+      },
+      {
+        "name": "Cachar",
+        "population": 1736319,
+        "cities": [
+          "Silchar"
+        ]
+      },
+      {
+        "name": "Charaideo",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Chirang",
+        "population": 481818,
+        "cities": []
+      },
+      {
+        "name": "Darrang",
+        "population": 908090,
+        "cities": []
+      },
+      {
+        "name": "Dhemaji",
+        "population": 688077,
+        "cities": []
+      },
+      {
+        "name": "Dhubri",
+        "population": 1948632,
+        "cities": []
+      },
+      {
+        "name": "Dibrugarh",
+        "population": 1327748,
+        "cities": [
+          "Dibrugarh"
+        ]
+      },
+      {
+        "name": "Dima Hasao",
+        "population": 213529,
+        "cities": []
+      },
+      {
+        "name": "Goalpara",
+        "population": 1008959,
+        "cities": []
+      },
+      {
+        "name": "Golaghat",
+        "population": 1058674,
+        "cities": []
+      },
+      {
+        "name": "Hailakandi",
+        "population": 659260,
+        "cities": []
+      },
+      {
+        "name": "Hojai",
+        "population": 931218,
+        "cities": []
+      },
+      {
+        "name": "Jorhat",
+        "population": 1091295,
+        "cities": []
+      },
+      {
+        "name": "Kamrup",
+        "population": 1517202,
+        "cities": []
+      },
+      {
+        "name": "Kamrup Metropolitan",
+        "population": 1260419,
+        "cities": [
+          "Guwahati"
+        ]
+      },
+      {
+        "name": "Karbi Anglong",
+        "population": 965280,
+        "cities": []
+      },
+      {
+        "name": "Karimganj",
+        "population": 1217002,
+        "cities": []
+      },
+      {
+        "name": "Kokrajhar",
+        "population": 886999,
+        "cities": []
+      },
+      {
+        "name": "Lakhimpur",
+        "population": 1040644,
+        "cities": []
+      },
+      {
+        "name": "Majuli",
+        "population": 167304,
+        "cities": []
+      },
+      {
+        "name": "Morigaon",
+        "population": 957853,
+        "cities": []
+      },
+      {
+        "name": "Nagaon",
+        "population": 2826006,
+        "cities": [
+          "Nagaon"
+        ]
+      },
+      {
+        "name": "Nalbari",
+        "population": 769919,
+        "cities": []
+      },
+      {
+        "name": "Sivasagar",
+        "population": 1150253,
+        "cities": []
+      },
+      {
+        "name": "South Salmara",
+        "population": 555114,
+        "cities": []
+      },
+      {
+        "name": "Sonitpur",
+        "population": 1925975,
+        "cities": []
+      },
+      {
+        "name": "Tinsukia",
+        "population": 1316948,
+        "cities": [
+          "Tinsukia"
+        ]
+      },
+      {
+        "name": "Udalguri",
+        "population": 832769,
+        "cities": []
+      },
+      {
+        "name": "West Karbi Anglong",
+        "population": 300320,
+        "cities": []
+      }
+    ]
+  },
+  "Bihar": {
+    "districts": [
+      {
+        "name": "Araria",
+        "population": 2806200,
+        "cities": []
+      },
+      {
+        "name": "Arwal",
+        "population": 700843,
+        "cities": []
+      },
+      {
+        "name": "Aurangabad",
+        "population": 2511243,
+        "cities": [
+          "Aurangabad (Nagar Parishad)",
+          "Aurangabad"
+        ]
+      },
+      {
+        "name": "Banka",
+        "population": 2029339,
+        "cities": []
+      },
+      {
+        "name": "Begusarai",
+        "population": 2954367,
+        "cities": [
+          "Begusarai"
+        ]
+      },
+      {
+        "name": "Bhagalpur",
+        "population": 3032226,
+        "cities": [
+          "Bhagalpur"
+        ]
+      },
+      {
+        "name": "Bhojpur",
+        "population": 2720155,
+        "cities": [
+          "Arrah"
+        ]
+      },
+      {
+        "name": "Buxar",
+        "population": 1707643,
+        "cities": [
+          "Buxar (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Darbhanga",
+        "population": 3921971,
+        "cities": [
+          "Darbhanga"
+        ]
+      },
+      {
+        "name": "East Champaran",
+        "population": 5082868,
+        "cities": []
+      },
+      {
+        "name": "Gaya",
+        "population": 4379383,
+        "cities": [
+          "Gaya"
+        ]
+      },
+      {
+        "name": "Gopalganj",
+        "population": 2558037,
+        "cities": []
+      },
+      {
+        "name": "Jamui",
+        "population": 1756078,
+        "cities": []
+      },
+      {
+        "name": "Jehanabad",
+        "population": 1124176,
+        "cities": [
+          "Jehanabad (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Kaimur",
+        "population": 1626900,
+        "cities": []
+      },
+      {
+        "name": "Katihar",
+        "population": 3068149,
+        "cities": [
+          "Katihar"
+        ]
+      },
+      {
+        "name": "Khagaria",
+        "population": 1657599,
+        "cities": []
+      },
+      {
+        "name": "Kishanganj",
+        "population": 1690948,
+        "cities": [
+          "Kishanganj (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Lakhisarai",
+        "population": 1000717,
+        "cities": []
+      },
+      {
+        "name": "Madhepura",
+        "population": 1994618,
+        "cities": []
+      },
+      {
+        "name": "Madhubani",
+        "population": 4476044,
+        "cities": []
+      },
+      {
+        "name": "Munger",
+        "population": 1359054,
+        "cities": [
+          "Munger",
+          "Jamalpur (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Muzaffarpur",
+        "population": 4778610,
+        "cities": [
+          "Muzaffarpur"
+        ]
+      },
+      {
+        "name": "Nalanda",
+        "population": 2872523,
+        "cities": [
+          "Biharsharif"
+        ]
+      },
+      {
+        "name": "Nawada",
+        "population": 2216653,
+        "cities": []
+      },
+      {
+        "name": "Patna",
+        "population": 5772804,
+        "cities": [
+          "Dinapur Nizamat (Nagar Parishad)",
+          "Patna"
+        ]
+      },
+      {
+        "name": "Purnia",
+        "population": 3273127,
+        "cities": [
+          "Purnia"
+        ]
+      },
+      {
+        "name": "Rohtas",
+        "population": 2962593,
+        "cities": [
+          "Sasaram (Nagar Parishad)",
+          "Dehri (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Saharsa",
+        "population": 1897102,
+        "cities": [
+          "Saharsa (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Samastipur",
+        "population": 4254782,
+        "cities": []
+      },
+      {
+        "name": "Saran",
+        "population": 3943098,
+        "cities": [
+          "Chapra (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Sheikhpura",
+        "population": 634927,
+        "cities": []
+      },
+      {
+        "name": "Sheohar",
+        "population": 656916,
+        "cities": []
+      },
+      {
+        "name": "Sitamarhi",
+        "population": 3419622,
+        "cities": []
+      },
+      {
+        "name": "Siwan",
+        "population": 3318176,
+        "cities": [
+          "Siwan (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "Supaul",
+        "population": 2228397,
+        "cities": []
+      },
+      {
+        "name": "Vaishali",
+        "population": 3495021,
+        "cities": [
+          "Hajipur (Nagar Parishad)"
+        ]
+      },
+      {
+        "name": "West Champaran",
+        "population": 3935042,
+        "cities": []
+      }
+    ]
+  },
+  "Chhattisgarh": {
+    "districts": [
+      {
+        "name": "Balod",
+        "population": 826165,
+        "cities": []
+      },
+      {
+        "name": "Baloda Bazar",
+        "population": 1305343,
+        "cities": []
+      },
+      {
+        "name": "Balrampur",
+        "population": 598855,
+        "cities": []
+      },
+      {
+        "name": "Bastar",
+        "population": 1302253,
+        "cities": [
+          "Jagdalpur"
+        ]
+      },
+      {
+        "name": "Bemetara",
+        "population": 197035,
+        "cities": []
+      },
+      {
+        "name": "Bijapur",
+        "population": 229832,
+        "cities": [
+          "Bijapur"
+        ]
+      },
+      {
+        "name": "Bilaspur",
+        "population": 1961922,
+        "cities": [
+          "Bilaspur"
+        ]
+      },
+      {
+        "name": "Dantewada",
+        "population": 533638,
+        "cities": []
+      },
+      {
+        "name": "Dhamtari",
+        "population": 799199,
+        "cities": [
+          "Dhamtari"
+        ]
+      },
+      {
+        "name": "Durg",
+        "population": 3343079,
+        "cities": [
+          "Bhilai Nagar",
+          "Durg"
+        ]
+      },
+      {
+        "name": "Gariaband",
+        "population": 597653,
+        "cities": []
+      },
+      {
+        "name": "Janjgir-Champa",
+        "population": 1620632,
+        "cities": []
+      },
+      {
+        "name": "Jashpur",
+        "population": 852043,
+        "cities": []
+      },
+      {
+        "name": "Kabirdham",
+        "population": 584667,
+        "cities": []
+      },
+      {
+        "name": "Kanker",
+        "population": 748593,
+        "cities": []
+      },
+      {
+        "name": "Kondagaon",
+        "population": 578326,
+        "cities": []
+      },
+      {
+        "name": "Korba",
+        "population": 1206563,
+        "cities": [
+          "Korba"
+        ]
+      },
+      {
+        "name": "Koriya",
+        "population": 659039,
+        "cities": []
+      },
+      {
+        "name": "Mahasamund",
+        "population": 1032275,
+        "cities": []
+      },
+      {
+        "name": "Mungeli",
+        "population": 701707,
+        "cities": []
+      },
+      {
+        "name": "Narayanpur",
+        "population": 140206,
+        "cities": []
+      },
+      {
+        "name": "Raigarh",
+        "population": 1493627,
+        "cities": [
+          "Raigarh",
+          "Panvel",
+          "Navi Mumbai Panvel Raigarh"
+        ]
+      },
+      {
+        "name": "Raipur",
+        "population": 4062160,
+        "cities": [
+          "Raipur"
+        ]
+      },
+      {
+        "name": "Rajnandgaon",
+        "population": 1537520,
+        "cities": [
+          "Rajnandgaon"
+        ]
+      },
+      {
+        "name": "Sukma",
+        "population": 249000,
+        "cities": []
+      },
+      {
+        "name": "Surajpur",
+        "population": 660280,
+        "cities": []
+      },
+      {
+        "name": "Surguja",
+        "population": 420661,
+        "cities": [
+          "Ambikapur"
+        ]
+      }
+    ]
+  },
+  "Goa": {
+    "districts": [
+      {
+        "name": "North Goa",
+        "population": 817761,
+        "cities": []
+      },
+      {
+        "name": "South Goa",
+        "population": 639962,
+        "cities": []
+      }
+    ]
+  },
+  "Gujarat": {
+    "districts": [
+      {
+        "name": "Ahmedabad",
+        "population": 7208200,
+        "cities": []
+      },
+      {
+        "name": "Amreli",
+        "population": 1513614,
+        "cities": [
+          "Amreli"
+        ]
+      },
+      {
+        "name": "Anand",
+        "population": 2090276,
+        "cities": []
+      },
+      {
+        "name": "Aravalli",
+        "population": 1051746,
+        "cities": []
+      },
+      {
+        "name": "Banaskantha",
+        "population": 3116045,
+        "cities": []
+      },
+      {
+        "name": "Bharuch",
+        "population": 1550822,
+        "cities": [
+          "Bharuch"
+        ]
+      },
+      {
+        "name": "Bhavnagar",
+        "population": 2877961,
+        "cities": [
+          "Botad",
+          "Bhavnagar"
+        ]
+      },
+      {
+        "name": "Botad",
+        "population": 656005,
+        "cities": []
+      },
+      {
+        "name": "Chhota Udepur",
+        "population": 1071831,
+        "cities": []
+      },
+      {
+        "name": "Dahod",
+        "population": 2126558,
+        "cities": []
+      },
+      {
+        "name": "Dang",
+        "population": 226769,
+        "cities": []
+      },
+      {
+        "name": "Devbhoomi Dwarka",
+        "population": 752484,
+        "cities": []
+      },
+      {
+        "name": "Gandhinagar",
+        "population": 1387478,
+        "cities": [
+          "Kalol",
+          "Gandhinagar"
+        ]
+      },
+      {
+        "name": "Gir Somnath",
+        "population": 1217477,
+        "cities": []
+      },
+      {
+        "name": "Jamnagar",
+        "population": 2159130,
+        "cities": [
+          "Jamnagar"
+        ]
+      },
+      {
+        "name": "Junagadh",
+        "population": 2742291,
+        "cities": [
+          "Junagadh",
+          "Veraval"
+        ]
+      },
+      {
+        "name": "Kheda",
+        "population": 2298934,
+        "cities": [
+          "Nadiad"
+        ]
+      },
+      {
+        "name": "Kutch",
+        "population": 2090313,
+        "cities": []
+      },
+      {
+        "name": "Mahisagar",
+        "population": 994624,
+        "cities": []
+      },
+      {
+        "name": "Mehsana",
+        "population": 2027727,
+        "cities": []
+      },
+      {
+        "name": "Morbi",
+        "population": 960329,
+        "cities": []
+      },
+      {
+        "name": "Narmada",
+        "population": 590379,
+        "cities": []
+      },
+      {
+        "name": "Navsari",
+        "population": 1330711,
+        "cities": []
+      },
+      {
+        "name": "Panchmahal",
+        "population": 2388267,
+        "cities": []
+      },
+      {
+        "name": "Patan",
+        "population": 1342746,
+        "cities": []
+      },
+      {
+        "name": "Porbandar",
+        "population": 586062,
+        "cities": [
+          "Porbandar"
+        ]
+      },
+      {
+        "name": "Rajkot",
+        "population": 3157676,
+        "cities": [
+          "Morvi",
+          "Rajkot",
+          "Gondal",
+          "Jetpur Navagadh"
+        ]
+      },
+      {
+        "name": "Sabarkantha",
+        "population": 2427346,
+        "cities": []
+      },
+      {
+        "name": "Surat",
+        "population": 4996391,
+        "cities": [
+          "Surat"
+        ]
+      },
+      {
+        "name": "Surendranagar",
+        "population": 1755873,
+        "cities": [
+          "Surendranagar Dudhrej"
+        ]
+      },
+      {
+        "name": "Tapi",
+        "population": 806489,
+        "cities": []
+      },
+      {
+        "name": "Vadodara",
+        "population": 3639775,
+        "cities": [
+          "Vadodara"
+        ]
+      },
+      {
+        "name": "Valsad",
+        "population": 1703068,
+        "cities": [
+          "Valsad",
+          "Vapi"
+        ]
+      }
+    ]
+  },
+  "Haryana": {
+    "districts": [
+      {
+        "name": "Ambala",
+        "population": 1136784,
+        "cities": [
+          "Ambala",
+          "Ambala Sadar"
+        ]
+      },
+      {
+        "name": "Bhiwani",
+        "population": 1629109,
+        "cities": [
+          "Bhiwani"
+        ]
+      },
+      {
+        "name": "Charkhi Dadri",
+        "population": 502276,
+        "cities": []
+      },
+      {
+        "name": "Faridabad",
+        "population": 1798954,
+        "cities": [
+          "Faridabad"
+        ]
+      },
+      {
+        "name": "Fatehabad",
+        "population": 941522,
+        "cities": []
+      },
+      {
+        "name": "Gurgaon",
+        "population": 1514085,
+        "cities": [
+          "Gurgaon"
+        ]
+      },
+      {
+        "name": "Hissar",
+        "population": 1742815,
+        "cities": []
+      },
+      {
+        "name": "Jhajjar",
+        "population": 956907,
+        "cities": [
+          "Bahadurgarh"
+        ]
+      },
+      {
+        "name": "Jind",
+        "population": 1332042,
+        "cities": [
+          "Jind"
+        ]
+      },
+      {
+        "name": "Kaithal",
+        "population": 1072861,
+        "cities": [
+          "Kaithal"
+        ]
+      },
+      {
+        "name": "Karnal",
+        "population": 1506323,
+        "cities": [
+          "Karnal"
+        ]
+      },
+      {
+        "name": "Kurukshetra",
+        "population": 964231,
+        "cities": [
+          "Thanesar"
+        ]
+      },
+      {
+        "name": "Mahendragarh",
+        "population": 921680,
+        "cities": []
+      },
+      {
+        "name": "Nuh",
+        "population": 1089406,
+        "cities": []
+      },
+      {
+        "name": "Palwal",
+        "population": 1040493,
+        "cities": [
+          "Palwal"
+        ]
+      },
+      {
+        "name": "Panchkula",
+        "population": 558890,
+        "cities": [
+          "Panchkula"
+        ]
+      },
+      {
+        "name": "Panipat",
+        "population": 1202811,
+        "cities": [
+          "Panipat"
+        ]
+      },
+      {
+        "name": "Rewari",
+        "population": 896129,
+        "cities": [
+          "Rewari"
+        ]
+      },
+      {
+        "name": "Rohtak",
+        "population": 1058683,
+        "cities": [
+          "Rohtak"
+        ]
+      },
+      {
+        "name": "Sirsa",
+        "population": 1295114,
+        "cities": [
+          "Sirsa"
+        ]
+      },
+      {
+        "name": "Sonipat",
+        "population": 1480080,
+        "cities": [
+          "Sonipat"
+        ]
+      },
+      {
+        "name": "Yamuna Nagar",
+        "population": 1214162,
+        "cities": []
+      }
+    ]
+  },
+  "Himachal Pradesh": {
+    "districts": [
+      {
+        "name": "Bilaspur",
+        "population": 382056,
+        "cities": [
+          "Bilaspur"
+        ]
+      },
+      {
+        "name": "Chamba",
+        "population": 518844,
+        "cities": []
+      },
+      {
+        "name": "Hamirpur",
+        "population": 454293,
+        "cities": []
+      },
+      {
+        "name": "Kangra",
+        "population": 1507223,
+        "cities": []
+      },
+      {
+        "name": "Kinnaur",
+        "population": 84298,
+        "cities": []
+      },
+      {
+        "name": "Kullu",
+        "population": 437474,
+        "cities": []
+      },
+      {
+        "name": "Lahaul and Spiti",
+        "population": 31528,
+        "cities": []
+      },
+      {
+        "name": "Mandi",
+        "population": 999518,
+        "cities": []
+      },
+      {
+        "name": "Shimla",
+        "population": 813384,
+        "cities": [
+          "Shimla"
+        ]
+      },
+      {
+        "name": "Sirmaur",
+        "population": 530164,
+        "cities": []
+      },
+      {
+        "name": "Solan",
+        "population": 576670,
+        "cities": []
+      },
+      {
+        "name": "Una",
+        "population": 521057,
+        "cities": []
+      }
+    ]
+  },
+  "Jharkhand": {
+    "districts": [
+      {
+        "name": "Bokaro",
+        "population": 2061918,
+        "cities": [
+          "Chas (Nagar Parishad)",
+          "Bokaro Steel City"
+        ]
+      },
+      {
+        "name": "Chatra",
+        "population": 1042304,
+        "cities": []
+      },
+      {
+        "name": "Deoghar",
+        "population": 1491879,
+        "cities": [
+          "Deoghar"
+        ]
+      },
+      {
+        "name": "Dhanbad",
+        "population": 2682662,
+        "cities": [
+          "Dhanbad"
+        ]
+      },
+      {
+        "name": "Dumka",
+        "population": 1321096,
+        "cities": []
+      },
+      {
+        "name": "East Singhbhum",
+        "population": 2291032,
+        "cities": []
+      },
+      {
+        "name": "Garhwa",
+        "population": 1322387,
+        "cities": []
+      },
+      {
+        "name": "Giridih",
+        "population": 2445203,
+        "cities": [
+          "Giridih"
+        ]
+      },
+      {
+        "name": "Godda",
+        "population": 1311382,
+        "cities": []
+      },
+      {
+        "name": "Gumla",
+        "population": 1025656,
+        "cities": []
+      },
+      {
+        "name": "Hazaribag",
+        "population": 1734005,
+        "cities": []
+      },
+      {
+        "name": "Jamtara",
+        "population": 790207,
+        "cities": []
+      },
+      {
+        "name": "Khunti",
+        "population": 530299,
+        "cities": []
+      },
+      {
+        "name": "Koderma",
+        "population": 717169,
+        "cities": []
+      },
+      {
+        "name": "Latehar",
+        "population": 725673,
+        "cities": []
+      },
+      {
+        "name": "Lohardaga",
+        "population": 461738,
+        "cities": []
+      },
+      {
+        "name": "Pakur",
+        "population": 899200,
+        "cities": []
+      },
+      {
+        "name": "Palamu",
+        "population": 1936319,
+        "cities": []
+      },
+      {
+        "name": "Ramgarh",
+        "population": 949159,
+        "cities": []
+      },
+      {
+        "name": "Ranchi",
+        "population": 2912022,
+        "cities": [
+          "Ranchi"
+        ]
+      },
+      {
+        "name": "Sahibganj",
+        "population": 1150038,
+        "cities": []
+      },
+      {
+        "name": "Seraikela Kharsawan",
+        "population": 1063458,
+        "cities": []
+      },
+      {
+        "name": "Simdega",
+        "population": 599813,
+        "cities": []
+      },
+      {
+        "name": "West Singhbhum",
+        "population": 1501619,
+        "cities": []
+      }
+    ]
+  },
+  "Karnataka": {
+    "districts": [
+      {
+        "name": "Bagalkot",
+        "population": 1890826,
+        "cities": [
+          "Bagalkot"
+        ]
+      },
+      {
+        "name": "Ballari",
+        "population": 2532383,
+        "cities": []
+      },
+      {
+        "name": "Belgaum",
+        "population": 4778439,
+        "cities": [
+          "Belgaum"
+        ]
+      },
+      {
+        "name": "Bangalore Rural",
+        "population": 987257,
+        "cities": []
+      },
+      {
+        "name": "Bangalore Urban",
+        "population": 9588910,
+        "cities": []
+      },
+      {
+        "name": "Bidar",
+        "population": 1700018,
+        "cities": [
+          "Bidar"
+        ]
+      },
+      {
+        "name": "Chamarajnagar",
+        "population": 1020962,
+        "cities": []
+      },
+      {
+        "name": "Chikkaballapur",
+        "population": 1254377,
+        "cities": []
+      },
+      {
+        "name": "Chikkamagaluru",
+        "population": 1137753,
+        "cities": []
+      },
+      {
+        "name": "Chitradurga",
+        "population": 1660378,
+        "cities": [
+          "Chitradurga"
+        ]
+      },
+      {
+        "name": "Dakshina Kannada",
+        "population": 2083625,
+        "cities": [
+          "Mangalore"
+        ]
+      },
+      {
+        "name": "Davanagere",
+        "population": 1946905,
+        "cities": [
+          "Davanagere"
+        ]
+      },
+      {
+        "name": "Dharwad",
+        "population": 1846993,
+        "cities": [
+          "Hubli-Dharwad"
+        ]
+      },
+      {
+        "name": "Gadag",
+        "population": 1065235,
+        "cities": [
+          "Gadag-Betigeri"
+        ]
+      },
+      {
+        "name": "Gulbarga",
+        "population": 2564892,
+        "cities": [
+          "Gulbarga"
+        ]
+      },
+      {
+        "name": "Hassan",
+        "population": 1776221,
+        "cities": [
+          "Hassan"
+        ]
+      },
+      {
+        "name": "Haveri",
+        "population": 1598506,
+        "cities": [
+          "Ranibennur"
+        ]
+      },
+      {
+        "name": "Kodagu",
+        "population": 554762,
+        "cities": []
+      },
+      {
+        "name": "Kolar",
+        "population": 1540231,
+        "cities": [
+          "Kolar",
+          "Robertson Pet"
+        ]
+      },
+      {
+        "name": "Koppal",
+        "population": 1391292,
+        "cities": [
+          "Gangawati"
+        ]
+      },
+      {
+        "name": "Mandya",
+        "population": 1808680,
+        "cities": [
+          "Mandya"
+        ]
+      },
+      {
+        "name": "Mysuru",
+        "population": 2994744,
+        "cities": []
+      },
+      {
+        "name": "Raichur",
+        "population": 1924773,
+        "cities": [
+          "Raichur"
+        ]
+      },
+      {
+        "name": "Ramanagara",
+        "population": 1082739,
+        "cities": []
+      },
+      {
+        "name": "Shimoga",
+        "population": 1755512,
+        "cities": [
+          "Shimoga",
+          "Bhadravati"
+        ]
+      },
+      {
+        "name": "Tumakuru",
+        "population": 2681449,
+        "cities": []
+      },
+      {
+        "name": "Udupi",
+        "population": 1177908,
+        "cities": [
+          "Udupi"
+        ]
+      },
+      {
+        "name": "Uttara Kannada",
+        "population": 1353299,
+        "cities": []
+      },
+      {
+        "name": "Vijayapura",
+        "population": 2175102,
+        "cities": []
+      },
+      {
+        "name": "Yadgir",
+        "population": 1172985,
+        "cities": []
+      }
+    ]
+  },
+  "Kerala": {
+    "districts": [
+      {
+        "name": "Alappuzha",
+        "population": 2121943,
+        "cities": [
+          "Alappuzha"
+        ]
+      },
+      {
+        "name": "Ernakulam",
+        "population": 3279860,
+        "cities": [
+          "Kochi"
+        ]
+      },
+      {
+        "name": "Idukki",
+        "population": 1107453,
+        "cities": []
+      },
+      {
+        "name": "Kannur",
+        "population": 2525637,
+        "cities": []
+      },
+      {
+        "name": "Kasaragod",
+        "population": 1302600,
+        "cities": [
+          "Kanhangad"
+        ]
+      },
+      {
+        "name": "Kollam",
+        "population": 2629703,
+        "cities": [
+          "Kollam"
+        ]
+      },
+      {
+        "name": "Kottayam",
+        "population": 1979384,
+        "cities": []
+      },
+      {
+        "name": "Kozhikode",
+        "population": 3089543,
+        "cities": [
+          "Kozhikode"
+        ]
+      },
+      {
+        "name": "Malappuram",
+        "population": 4110956,
+        "cities": [
+          "Malappuram"
+        ]
+      },
+      {
+        "name": "Palakkad",
+        "population": 2810892,
+        "cities": [
+          "Palakkad"
+        ]
+      },
+      {
+        "name": "Pathanamthitta",
+        "population": 1195537,
+        "cities": []
+      },
+      {
+        "name": "Thrissur",
+        "population": 3110327,
+        "cities": [
+          "Thrissur"
+        ]
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "population": 3307284,
+        "cities": [
+          "Thiruvananthapuram"
+        ]
+      },
+      {
+        "name": "Wayanad",
+        "population": 816558,
+        "cities": []
+      }
+    ]
+  },
+  "Madhya Pradesh": {
+    "districts": [
+      {
+        "name": "Agar Malwa",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Alirajpur",
+        "population": 728677,
+        "cities": []
+      },
+      {
+        "name": "Anuppur",
+        "population": 749521,
+        "cities": []
+      },
+      {
+        "name": "Ashok Nagar",
+        "population": 844979,
+        "cities": []
+      },
+      {
+        "name": "Balaghat",
+        "population": 1701156,
+        "cities": []
+      },
+      {
+        "name": "Barwani",
+        "population": 1385659,
+        "cities": []
+      },
+      {
+        "name": "Betul",
+        "population": 1575247,
+        "cities": [
+          "Betul"
+        ]
+      },
+      {
+        "name": "Bhind",
+        "population": 1703562,
+        "cities": [
+          "Bhind"
+        ]
+      },
+      {
+        "name": "Bhopal",
+        "population": 2368145,
+        "cities": [
+          "Bhopal"
+        ]
+      },
+      {
+        "name": "Burhanpur",
+        "population": 756993,
+        "cities": [
+          "Burhanpur"
+        ]
+      },
+      {
+        "name": "Chachaura-Binaganj",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Chhatarpur",
+        "population": 1762857,
+        "cities": [
+          "Chhatarpur"
+        ]
+      },
+      {
+        "name": "Chhindwara",
+        "population": 2090306,
+        "cities": [
+          "Chhindwara"
+        ]
+      },
+      {
+        "name": "Damoh",
+        "population": 1263703,
+        "cities": [
+          "Damoh"
+        ]
+      },
+      {
+        "name": "Datia",
+        "population": 786375,
+        "cities": [
+          "Datia"
+        ]
+      },
+      {
+        "name": "Dewas",
+        "population": 1563107,
+        "cities": [
+          "Dewas"
+        ]
+      },
+      {
+        "name": "Dhar",
+        "population": 2184672,
+        "cities": [
+          "Pithampur"
+        ]
+      },
+      {
+        "name": "Dindori",
+        "population": 704218,
+        "cities": []
+      },
+      {
+        "name": "Guna",
+        "population": 1240938,
+        "cities": [
+          "Guna"
+        ]
+      },
+      {
+        "name": "Gwalior",
+        "population": 2030543,
+        "cities": [
+          "Gwalior"
+        ]
+      },
+      {
+        "name": "Harda",
+        "population": 570302,
+        "cities": []
+      },
+      {
+        "name": "Hoshangabad",
+        "population": 1240975,
+        "cities": [
+          "Hoshangabad"
+        ]
+      },
+      {
+        "name": "Indore",
+        "population": 3272335,
+        "cities": [
+          "Indore"
+        ]
+      },
+      {
+        "name": "Jabalpur",
+        "population": 2460714,
+        "cities": [
+          "Jabalpur"
+        ]
+      },
+      {
+        "name": "Jhabua",
+        "population": 1024091,
+        "cities": []
+      },
+      {
+        "name": "Katni",
+        "population": 1291684,
+        "cities": [
+          "Murwara (Katni)"
+        ]
+      },
+      {
+        "name": "Khandwa (East Nimar)",
+        "population": 1309443,
+        "cities": [
+          "Khandwa"
+        ]
+      },
+      {
+        "name": "Khargone (West Nimar)",
+        "population": 1872413,
+        "cities": [
+          "Khargone"
+        ]
+      },
+      {
+        "name": "Maihar",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Mandla",
+        "population": 1053522,
+        "cities": []
+      },
+      {
+        "name": "Mandsaur",
+        "population": 1339832,
+        "cities": [
+          "Mandsaur"
+        ]
+      },
+      {
+        "name": "Morena",
+        "population": 1965137,
+        "cities": [
+          "Morena"
+        ]
+      },
+      {
+        "name": "Narsinghpur",
+        "population": 1092141,
+        "cities": []
+      },
+      {
+        "name": "Nagda",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Neemuch",
+        "population": 825958,
+        "cities": [
+          "Neemuch"
+        ]
+      },
+      {
+        "name": "Niwari",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Panna",
+        "population": 1016028,
+        "cities": []
+      },
+      {
+        "name": "Raisen",
+        "population": 1331699,
+        "cities": []
+      },
+      {
+        "name": "Rajgarh",
+        "population": 1546541,
+        "cities": []
+      },
+      {
+        "name": "Ratlam",
+        "population": 1454483,
+        "cities": [
+          "Ratlam"
+        ]
+      },
+      {
+        "name": "Rewa",
+        "population": 2363744,
+        "cities": [
+          "Rewa"
+        ]
+      },
+      {
+        "name": "Sagar",
+        "population": 2378295,
+        "cities": [
+          "Sagar"
+        ]
+      },
+      {
+        "name": "Satna",
+        "population": 2228619,
+        "cities": [
+          "Satna"
+        ]
+      },
+      {
+        "name": "Sehore",
+        "population": 1311008,
+        "cities": [
+          "Sehore"
+        ]
+      },
+      {
+        "name": "Seoni",
+        "population": 1378876,
+        "cities": [
+          "Seoni"
+        ]
+      },
+      {
+        "name": "Shahdol",
+        "population": 1064989,
+        "cities": []
+      },
+      {
+        "name": "Shajapur",
+        "population": 1512353,
+        "cities": []
+      },
+      {
+        "name": "Sheopur",
+        "population": 687952,
+        "cities": []
+      },
+      {
+        "name": "Shivpuri",
+        "population": 1725818,
+        "cities": [
+          "Shivpuri"
+        ]
+      },
+      {
+        "name": "Sidhi",
+        "population": 1126515,
+        "cities": []
+      },
+      {
+        "name": "Singrauli",
+        "population": 1178132,
+        "cities": [
+          "Singrauli"
+        ]
+      },
+      {
+        "name": "Tikamgarh",
+        "population": 1444920,
+        "cities": []
+      },
+      {
+        "name": "Ujjain",
+        "population": 1986864,
+        "cities": [
+          "Nagda",
+          "Ujjain"
+        ]
+      },
+      {
+        "name": "Umaria",
+        "population": 643579,
+        "cities": []
+      },
+      {
+        "name": "Vidisha",
+        "population": 1458212,
+        "cities": [
+          "Vidisha"
+        ]
+      }
+    ]
+  },
+  "Maharashtra": {
+    "districts": [
+      {
+        "name": "Ahmednagar",
+        "population": 4543083,
+        "cities": []
+      },
+      {
+        "name": "Akola",
+        "population": 1818617,
+        "cities": [
+          "Akola"
+        ]
+      },
+      {
+        "name": "Amravati",
+        "population": 2887826,
+        "cities": [
+          "Achalpur",
+          "Amravati"
+        ]
+      },
+      {
+        "name": "Aurangabad",
+        "population": 3695928,
+        "cities": [
+          "Aurangabad (Nagar Parishad)",
+          "Aurangabad"
+        ]
+      },
+      {
+        "name": "Beed",
+        "population": 2585962,
+        "cities": []
+      },
+      {
+        "name": "Bhandara",
+        "population": 1198810,
+        "cities": []
+      },
+      {
+        "name": "Buldhana",
+        "population": 2588039,
+        "cities": []
+      },
+      {
+        "name": "Chandrapur",
+        "population": 2194262,
+        "cities": [
+          "Chandrapur"
+        ]
+      },
+      {
+        "name": "Dhule",
+        "population": 2048781,
+        "cities": [
+          "Dhule"
+        ]
+      },
+      {
+        "name": "Gadchiroli",
+        "population": 1071795,
+        "cities": []
+      },
+      {
+        "name": "Gondia",
+        "population": 1322331,
+        "cities": []
+      },
+      {
+        "name": "Hingoli",
+        "population": 1178973,
+        "cities": []
+      },
+      {
+        "name": "Jalgaon",
+        "population": 4224442,
+        "cities": [
+          "Bhusawal",
+          "Jalgaon"
+        ]
+      },
+      {
+        "name": "Jalna",
+        "population": 1958483,
+        "cities": [
+          "Jalna"
+        ]
+      },
+      {
+        "name": "Kolhapur",
+        "population": 3874015,
+        "cities": [
+          "Ichalkaranji",
+          "Kolhapur"
+        ]
+      },
+      {
+        "name": "Latur",
+        "population": 2455543,
+        "cities": [
+          "Latur",
+          "Udgir"
+        ]
+      },
+      {
+        "name": "Mumbai City",
+        "population": 3145966,
+        "cities": []
+      },
+      {
+        "name": "Mumbai suburban",
+        "population": 9332481,
+        "cities": []
+      },
+      {
+        "name": "Nanded",
+        "population": 3356566,
+        "cities": [
+          "Nanded Waghala"
+        ]
+      },
+      {
+        "name": "Nandurbar",
+        "population": 1646177,
+        "cities": [
+          "Nandurbar"
+        ]
+      },
+      {
+        "name": "Nagpur",
+        "population": 4653171,
+        "cities": [
+          "Nagpur"
+        ]
+      },
+      {
+        "name": "Nashik",
+        "population": 6109052,
+        "cities": [
+          "Malegaon",
+          "Nashik"
+        ]
+      },
+      {
+        "name": "Osmanabad",
+        "population": 1660311,
+        "cities": [
+          "Osmanabad"
+        ]
+      },
+      {
+        "name": "Palghar",
+        "population": 2990116,
+        "cities": []
+      },
+      {
+        "name": "Parbhani",
+        "population": 1835982,
+        "cities": [
+          "Parbhani"
+        ]
+      },
+      {
+        "name": "Pune",
+        "population": 9426959,
+        "cities": [
+          "Pimpri Chinchwad",
+          "Pune"
+        ]
+      },
+      {
+        "name": "Raigad",
+        "population": 2635394,
+        "cities": []
+      },
+      {
+        "name": "Ratnagiri",
+        "population": 1612672,
+        "cities": []
+      },
+      {
+        "name": "Sangli",
+        "population": 2820575,
+        "cities": [
+          "Sangli Miraj Kupwad"
+        ]
+      },
+      {
+        "name": "Satara",
+        "population": 3003922,
+        "cities": [
+          "Satara"
+        ]
+      },
+      {
+        "name": "Sindhudurg",
+        "population": 848868,
+        "cities": []
+      },
+      {
+        "name": "Solapur",
+        "population": 4315527,
+        "cities": [
+          "Barshi",
+          "Solapur"
+        ]
+      },
+      {
+        "name": "Thane",
+        "population": 11060148,
+        "cities": [
+          "Vasai-Virar City",
+          "Mira-Bhayandar",
+          "Thane",
+          "Navi Mumbai",
+          "Bhiwandi Nizampur",
+          "Kalyan-Dombivli",
+          "Ulhasnagar",
+          "Badlapur",
+          "Ambarnath"
+        ]
+      },
+      {
+        "name": "Wardha",
+        "population": 1296157,
+        "cities": [
+          "Wardha",
+          "Hinganghat"
+        ]
+      },
+      {
+        "name": "Washim",
+        "population": 1196714,
+        "cities": []
+      },
+      {
+        "name": "Yavatmal",
+        "population": 2775457,
+        "cities": [
+          "Yavatmal"
+        ]
+      }
+    ]
+  },
+  "Manipur": {
+    "districts": [
+      {
+        "name": "Bishnupur",
+        "population": 240363,
+        "cities": []
+      },
+      {
+        "name": "Chandel",
+        "population": 144028,
+        "cities": []
+      },
+      {
+        "name": "Churachandpur",
+        "population": 271274,
+        "cities": []
+      },
+      {
+        "name": "Imphal East",
+        "population": 452661,
+        "cities": []
+      },
+      {
+        "name": "Imphal West",
+        "population": 514683,
+        "cities": [
+          "Imphal"
+        ]
+      },
+      {
+        "name": "Jiribam",
+        "population": 43818,
+        "cities": []
+      },
+      {
+        "name": "Kakching",
+        "population": 135481,
+        "cities": []
+      },
+      {
+        "name": "Kamjong",
+        "population": 45616,
+        "cities": []
+      },
+      {
+        "name": "Kangpokpi",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Noney",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Pherzawl",
+        "population": 47250,
+        "cities": []
+      },
+      {
+        "name": "Senapati",
+        "population": 354772,
+        "cities": []
+      },
+      {
+        "name": "Tamenglong",
+        "population": 140143,
+        "cities": []
+      },
+      {
+        "name": "Tengnoupal",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Thoubal",
+        "population": 420517,
+        "cities": []
+      },
+      {
+        "name": "Ukhrul",
+        "population": 183115,
+        "cities": []
+      }
+    ]
+  },
+  "Meghalaya": {
+    "districts": [
+      {
+        "name": "East Garo Hills",
+        "population": 317618,
+        "cities": []
+      },
+      {
+        "name": "East Khasi Hills",
+        "population": 824059,
+        "cities": [
+          "Shillong"
+        ]
+      },
+      {
+        "name": "East Jaintia Hills",
+        "population": 122436,
+        "cities": []
+      },
+      {
+        "name": "North Garo Hills",
+        "population": 118325,
+        "cities": []
+      },
+      {
+        "name": "Ri Bhoi",
+        "population": 258380,
+        "cities": []
+      },
+      {
+        "name": "South Garo Hills",
+        "population": 142574,
+        "cities": []
+      },
+      {
+        "name": "South West Garo Hills",
+        "population": 172495,
+        "cities": []
+      },
+      {
+        "name": "South West Khasi Hills",
+        "population": 110152,
+        "cities": []
+      },
+      {
+        "name": "West Jaintia Hills",
+        "population": 270352,
+        "cities": []
+      },
+      {
+        "name": "West Garo Hills",
+        "population": 642923,
+        "cities": []
+      },
+      {
+        "name": "West Khasi Hills",
+        "population": 385601,
+        "cities": []
+      }
+    ]
+  },
+  "Mizoram": {
+    "districts": [
+      {
+        "name": "Aizawl",
+        "population": 404054,
+        "cities": [
+          "Aizawl"
+        ]
+      },
+      {
+        "name": "Champhai",
+        "population": 125370,
+        "cities": []
+      },
+      {
+        "name": "Hnahthial",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Khawzawl",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Kolasib",
+        "population": 83054,
+        "cities": []
+      },
+      {
+        "name": "Lawngtlai",
+        "population": 117444,
+        "cities": []
+      },
+      {
+        "name": "Lunglei",
+        "population": 154094,
+        "cities": []
+      },
+      {
+        "name": "Mamit",
+        "population": 85757,
+        "cities": []
+      },
+      {
+        "name": "Saiha",
+        "population": 56366,
+        "cities": []
+      },
+      {
+        "name": "Saitual",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Serchhip",
+        "population": 64875,
+        "cities": []
+      }
+    ]
+  },
+  "Nagaland": {
+    "districts": [
+      {
+        "name": "Dimapur",
+        "population": 379769,
+        "cities": [
+          "Dimapur"
+        ]
+      },
+      {
+        "name": "Kiphire",
+        "population": 74033,
+        "cities": []
+      },
+      {
+        "name": "Kohima",
+        "population": 270063,
+        "cities": []
+      },
+      {
+        "name": "Longleng",
+        "population": 50593,
+        "cities": []
+      },
+      {
+        "name": "Mokokchung",
+        "population": 193171,
+        "cities": []
+      },
+      {
+        "name": "Mon",
+        "population": 259604,
+        "cities": []
+      },
+      {
+        "name": "Noklak",
+        "population": 59300,
+        "cities": []
+      },
+      {
+        "name": "Peren",
+        "population": 163294,
+        "cities": []
+      },
+      {
+        "name": "Phek",
+        "population": 163294,
+        "cities": []
+      },
+      {
+        "name": "Tuensang",
+        "population": 414801,
+        "cities": []
+      },
+      {
+        "name": "Wokha",
+        "population": 166239,
+        "cities": []
+      },
+      {
+        "name": "Zunheboto",
+        "population": 141014,
+        "cities": []
+      }
+    ]
+  },
+  "Odisha": {
+    "districts": [
+      {
+        "name": "Angul",
+        "population": 1271703,
+        "cities": []
+      },
+      {
+        "name": "Boudh (Bauda)",
+        "population": 439917,
+        "cities": []
+      },
+      {
+        "name": "Bhadrak",
+        "population": 1506522,
+        "cities": [
+          "Bhadrak"
+        ]
+      },
+      {
+        "name": "Balangir",
+        "population": 1648574,
+        "cities": []
+      },
+      {
+        "name": "Bargarh (Baragarh)",
+        "population": 1478833,
+        "cities": []
+      },
+      {
+        "name": "Balasore",
+        "population": 2317419,
+        "cities": []
+      },
+      {
+        "name": "Cuttack",
+        "population": 2618708,
+        "cities": [
+          "Cuttack"
+        ]
+      },
+      {
+        "name": "Debagarh (Deogarh)",
+        "population": 312164,
+        "cities": []
+      },
+      {
+        "name": "Dhenkanal",
+        "population": 1192948,
+        "cities": []
+      },
+      {
+        "name": "Ganjam",
+        "population": 3520151,
+        "cities": [
+          "Brahmapur"
+        ]
+      },
+      {
+        "name": "Gajapati",
+        "population": 575880,
+        "cities": []
+      },
+      {
+        "name": "Jharsuguda",
+        "population": 579499,
+        "cities": []
+      },
+      {
+        "name": "Jajpur",
+        "population": 1826275,
+        "cities": []
+      },
+      {
+        "name": "Jagatsinghpur",
+        "population": 1136604,
+        "cities": []
+      },
+      {
+        "name": "Khordha",
+        "population": 2246341,
+        "cities": [
+          "Bhubaneswar"
+        ]
+      },
+      {
+        "name": "Kendujhar (Keonjhar)",
+        "population": 1802777,
+        "cities": []
+      },
+      {
+        "name": "Kalahandi",
+        "population": 1573054,
+        "cities": []
+      },
+      {
+        "name": "Kandhamal",
+        "population": 731952,
+        "cities": []
+      },
+      {
+        "name": "Koraput",
+        "population": 1376934,
+        "cities": []
+      },
+      {
+        "name": "Kendrapara",
+        "population": 1439891,
+        "cities": []
+      },
+      {
+        "name": "Malkangiri",
+        "population": 612727,
+        "cities": []
+      },
+      {
+        "name": "Mayurbhanj",
+        "population": 2513895,
+        "cities": [
+          "Baripada"
+        ]
+      },
+      {
+        "name": "Nabarangpur",
+        "population": 1218762,
+        "cities": []
+      },
+      {
+        "name": "Nuapada",
+        "population": 606490,
+        "cities": []
+      },
+      {
+        "name": "Nayagarh",
+        "population": 962215,
+        "cities": []
+      },
+      {
+        "name": "Puri",
+        "population": 1697983,
+        "cities": [
+          "Puri"
+        ]
+      },
+      {
+        "name": "Rayagada",
+        "population": 961959,
+        "cities": []
+      },
+      {
+        "name": "Sambalpur",
+        "population": 1044410,
+        "cities": [
+          "Sambalpur"
+        ]
+      },
+      {
+        "name": "Subarnapur (Sonepur)",
+        "population": 652107,
+        "cities": []
+      },
+      {
+        "name": "Sundargarh",
+        "population": 2080664,
+        "cities": [
+          "Raurkela"
+        ]
+      }
+    ]
+  },
+  "Punjab": {
+    "districts": [
+      {
+        "name": "Amritsar",
+        "population": 2490891,
+        "cities": [
+          "Amritsar"
+        ]
+      },
+      {
+        "name": "Barnala",
+        "population": 596294,
+        "cities": [
+          "Barnala"
+        ]
+      },
+      {
+        "name": "Bathinda",
+        "population": 1388859,
+        "cities": [
+          "Bathinda"
+        ]
+      },
+      {
+        "name": "Firozpur",
+        "population": 2026831,
+        "cities": [
+          "Firozpur",
+          "Abohar"
+        ]
+      },
+      {
+        "name": "Faridkot",
+        "population": 618008,
+        "cities": []
+      },
+      {
+        "name": "Fatehgarh Sahib",
+        "population": 599814,
+        "cities": []
+      },
+      {
+        "name": "Fazilka",
+        "population": 1180483,
+        "cities": []
+      },
+      {
+        "name": "Gurdaspur",
+        "population": 2299026,
+        "cities": [
+          "Pathankot",
+          "Batala"
+        ]
+      },
+      {
+        "name": "Hoshiarpur",
+        "population": 1582793,
+        "cities": [
+          "Hoshiarpur"
+        ]
+      },
+      {
+        "name": "Jalandhar",
+        "population": 2181753,
+        "cities": [
+          "Jalandhar"
+        ]
+      },
+      {
+        "name": "Kapurthala",
+        "population": 817668,
+        "cities": []
+      },
+      {
+        "name": "Ludhiana",
+        "population": 3487882,
+        "cities": [
+          "Khanna",
+          "Ludhiana"
+        ]
+      },
+      {
+        "name": "Mansa",
+        "population": 768808,
+        "cities": []
+      },
+      {
+        "name": "Moga",
+        "population": 992289,
+        "cities": [
+          "Moga"
+        ]
+      },
+      {
+        "name": "Sri Muktsar Sahib",
+        "population": 902702,
+        "cities": []
+      },
+      {
+        "name": "Pathankot",
+        "population": 626154,
+        "cities": []
+      },
+      {
+        "name": "Patiala",
+        "population": 2892282,
+        "cities": [
+          "Patiala"
+        ]
+      },
+      {
+        "name": "Rupnagar",
+        "population": 683349,
+        "cities": []
+      },
+      {
+        "name": "Sahibzada Ajit Singh Nagar",
+        "population": 986147,
+        "cities": [
+          "S.A.S. Nagar"
+        ]
+      },
+      {
+        "name": "Sangrur",
+        "population": 1654408,
+        "cities": [
+          "Malerkotla"
+        ]
+      },
+      {
+        "name": "Shahid Bhagat Singh Nagar",
+        "population": 614362,
+        "cities": []
+      },
+      {
+        "name": "Tarn Taran",
+        "population": 1120070,
+        "cities": []
+      }
+    ]
+  },
+  "Rajasthan": {
+    "districts": [
+      {
+        "name": "Ajmer",
+        "population": 2584913,
+        "cities": [
+          "Kishangarh",
+          "Ajmer",
+          "Beawar"
+        ]
+      },
+      {
+        "name": "Alwar",
+        "population": 3671999,
+        "cities": [
+          "Bhiwadi",
+          "Alwar"
+        ]
+      },
+      {
+        "name": "Bikaner",
+        "population": 2367745,
+        "cities": [
+          "Bikaner"
+        ]
+      },
+      {
+        "name": "Barmer",
+        "population": 2604453,
+        "cities": []
+      },
+      {
+        "name": "Banswara",
+        "population": 1798194,
+        "cities": [
+          "Banswara"
+        ]
+      },
+      {
+        "name": "Bharatpur",
+        "population": 2549121,
+        "cities": [
+          "Bharatpur"
+        ]
+      },
+      {
+        "name": "Baran",
+        "population": 1223921,
+        "cities": [
+          "Baran"
+        ]
+      },
+      {
+        "name": "Bundi",
+        "population": 1113725,
+        "cities": [
+          "Bundi"
+        ]
+      },
+      {
+        "name": "Bhilwara",
+        "population": 2410459,
+        "cities": [
+          "Bhilwara"
+        ]
+      },
+      {
+        "name": "Churu",
+        "population": 2041172,
+        "cities": [
+          "Churu",
+          "Sujangarh"
+        ]
+      },
+      {
+        "name": "Chittorgarh",
+        "population": 1544392,
+        "cities": []
+      },
+      {
+        "name": "Dausa",
+        "population": 1637226,
+        "cities": []
+      },
+      {
+        "name": "Dholpur",
+        "population": 1207293,
+        "cities": []
+      },
+      {
+        "name": "Dungarpur",
+        "population": 1388906,
+        "cities": []
+      },
+      {
+        "name": "Ganganagar",
+        "population": 1969520,
+        "cities": [
+          "Ganganagar"
+        ]
+      },
+      {
+        "name": "Hanumangarh",
+        "population": 1779650,
+        "cities": [
+          "Hanumangarh"
+        ]
+      },
+      {
+        "name": "Jhunjhunu",
+        "population": 2139658,
+        "cities": []
+      },
+      {
+        "name": "Jalore",
+        "population": 1830151,
+        "cities": []
+      },
+      {
+        "name": "Jodhpur",
+        "population": 3685681,
+        "cities": [
+          "Jodhpur"
+        ]
+      },
+      {
+        "name": "Jaipur",
+        "population": 6663971,
+        "cities": [
+          "Jaipur"
+        ]
+      },
+      {
+        "name": "Jaisalmer",
+        "population": 672008,
+        "cities": []
+      },
+      {
+        "name": "Jhalawar",
+        "population": 1411327,
+        "cities": []
+      },
+      {
+        "name": "Karauli",
+        "population": 1458459,
+        "cities": [
+          "Hindaun"
+        ]
+      },
+      {
+        "name": "Kota",
+        "population": 1950491,
+        "cities": [
+          "Kota"
+        ]
+      },
+      {
+        "name": "Nagaur",
+        "population": 3309234,
+        "cities": [
+          "Nagaur"
+        ]
+      },
+      {
+        "name": "Pali",
+        "population": 2038533,
+        "cities": [
+          "Pali"
+        ]
+      },
+      {
+        "name": "Pratapgarh",
+        "population": 868231,
+        "cities": []
+      },
+      {
+        "name": "Rajsamand",
+        "population": 1158283,
+        "cities": []
+      },
+      {
+        "name": "Sikar",
+        "population": 2677737,
+        "cities": [
+          "Sikar"
+        ]
+      },
+      {
+        "name": "Sawai Madhopur",
+        "population": 1338114,
+        "cities": [
+          "Gangapur City",
+          "Sawai Madhopur"
+        ]
+      },
+      {
+        "name": "Sirohi",
+        "population": 1037185,
+        "cities": []
+      },
+      {
+        "name": "Tonk",
+        "population": 1421711,
+        "cities": [
+          "Tonk"
+        ]
+      },
+      {
+        "name": "Udaipur",
+        "population": 3067549,
+        "cities": [
+          "Udaipur"
+        ]
+      }
+    ]
+  },
+  "Sikkim": {
+    "districts": [
+      {
+        "name": "East Sikkim",
+        "population": 281293,
+        "cities": []
+      },
+      {
+        "name": "North Sikkim",
+        "population": 43354,
+        "cities": []
+      },
+      {
+        "name": "South Sikkim",
+        "population": 146742,
+        "cities": []
+      },
+      {
+        "name": "West Sikkim",
+        "population": 136299,
+        "cities": []
+      }
+    ]
+  },
+  "Tamil Nadu": {
+    "districts": [
+      {
+        "name": "Ariyalur",
+        "population": 752481,
+        "cities": []
+      },
+      {
+        "name": "Chengalpattu",
+        "population": 2556244,
+        "cities": []
+      },
+      {
+        "name": "Chennai",
+        "population": 7100000,
+        "cities": [
+          "Chennai"
+        ]
+      },
+      {
+        "name": "Coimbatore",
+        "population": 3472578,
+        "cities": [
+          "Coimbatore",
+          "Kurichi"
+        ]
+      },
+      {
+        "name": "Cuddalore",
+        "population": 2600880,
+        "cities": [
+          "Cuddalore",
+          "Neyveli"
+        ]
+      },
+      {
+        "name": "Dharmapuri",
+        "population": 1502900,
+        "cities": []
+      },
+      {
+        "name": "Dindigul",
+        "population": 2161367,
+        "cities": [
+          "Dindigul"
+        ]
+      },
+      {
+        "name": "Erode",
+        "population": 2259608,
+        "cities": [
+          "Erode"
+        ]
+      },
+      {
+        "name": "Kallakurichi",
+        "population": 1370281,
+        "cities": []
+      },
+      {
+        "name": "Kanchipuram",
+        "population": 1166401,
+        "cities": []
+      },
+      {
+        "name": "Kanyakumari",
+        "population": 1863178,
+        "cities": []
+      },
+      {
+        "name": "Karur",
+        "population": 1076588,
+        "cities": []
+      },
+      {
+        "name": "Krishnagiri",
+        "population": 1883731,
+        "cities": [
+          "Hosur"
+        ]
+      },
+      {
+        "name": "Madurai",
+        "population": 3991038,
+        "cities": [
+          "Madurai"
+        ]
+      },
+      {
+        "name": "Mayiladuthurai",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "Nagapattinam",
+        "population": 1614069,
+        "cities": []
+      },
+      {
+        "name": "Nilgiris",
+        "population": 735071,
+        "cities": []
+      },
+      {
+        "name": "Namakkal",
+        "population": 1721179,
+        "cities": []
+      },
+      {
+        "name": "Perambalur",
+        "population": 564511,
+        "cities": []
+      },
+      {
+        "name": "Pudukkottai",
+        "population": 1918725,
+        "cities": [
+          "Pudukkottai"
+        ]
+      },
+      {
+        "name": "Ramanathapuram",
+        "population": 1337560,
+        "cities": []
+      },
+      {
+        "name": "Ranipet",
+        "population": 1210277,
+        "cities": []
+      },
+      {
+        "name": "Salem",
+        "population": 3480008,
+        "cities": [
+          "Salem"
+        ]
+      },
+      {
+        "name": "Sivaganga",
+        "population": 1341250,
+        "cities": [
+          "Karaikkudi"
+        ]
+      },
+      {
+        "name": "Tenkasi",
+        "population": 1407627,
+        "cities": []
+      },
+      {
+        "name": "Tirupur",
+        "population": 2471222,
+        "cities": []
+      },
+      {
+        "name": "Tiruchirappalli",
+        "population": 2713858,
+        "cities": [
+          "Tiruchirappalli"
+        ]
+      },
+      {
+        "name": "Theni",
+        "population": 1243684,
+        "cities": []
+      },
+      {
+        "name": "Tirunelveli",
+        "population": 1665253,
+        "cities": [
+          "Tirunelveli"
+        ]
+      },
+      {
+        "name": "Thanjavur",
+        "population": 2402781,
+        "cities": [
+          "Kumbakonam",
+          "Thanjavur"
+        ]
+      },
+      {
+        "name": "Thoothukudi",
+        "population": 1738376,
+        "cities": []
+      },
+      {
+        "name": "Tirupattur",
+        "population": 1111812,
+        "cities": []
+      },
+      {
+        "name": "Tiruvallur",
+        "population": 3725697,
+        "cities": []
+      },
+      {
+        "name": "Tiruvarur",
+        "population": 1268094,
+        "cities": []
+      },
+      {
+        "name": "Tiruvannamalai",
+        "population": 2468965,
+        "cities": [
+          "Tiruvannamalai"
+        ]
+      },
+      {
+        "name": "Vellore",
+        "population": 1614242,
+        "cities": [
+          "Vellore",
+          "Ambur"
+        ]
+      },
+      {
+        "name": "Viluppuram",
+        "population": 2093003,
+        "cities": []
+      },
+      {
+        "name": "Virudhunagar",
+        "population": 1943309,
+        "cities": [
+          "Rajapalayam"
+        ]
+      }
+    ]
+  },
+  "Telangana": {
+    "districts": [
+      {
+        "name": "Adilabad",
+        "population": 708952,
+        "cities": [
+          "Adilabad"
+        ]
+      },
+      {
+        "name": "Komaram Bheem",
+        "population": 515835,
+        "cities": []
+      },
+      {
+        "name": "Bhadradri Kothagudem",
+        "population": 1304811,
+        "cities": []
+      },
+      {
+        "name": "Hyderabad",
+        "population": 3441992,
+        "cities": [
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "Secunderabad",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC",
+          "GHMC"
+        ]
+      },
+      {
+        "name": "Jagtial",
+        "population": 983414,
+        "cities": []
+      },
+      {
+        "name": "Jangaon",
+        "population": 582457,
+        "cities": []
+      },
+      {
+        "name": "Jayashankar Bhupalpally",
+        "population": 712257,
+        "cities": []
+      },
+      {
+        "name": "Jogulamba Gadwal",
+        "population": 664971,
+        "cities": []
+      },
+      {
+        "name": "Kamareddy",
+        "population": 972625,
+        "cities": []
+      },
+      {
+        "name": "Karimnagar",
+        "population": 1016063,
+        "cities": [
+          "Ramagundam",
+          "Jagtial",
+          "Karimnagar"
+        ]
+      },
+      {
+        "name": "Khammam",
+        "population": 1401639,
+        "cities": [
+          "Khammam"
+        ]
+      },
+      {
+        "name": "Mahabubabad",
+        "population": 770170,
+        "cities": []
+      },
+      {
+        "name": "Mahbubnagar",
+        "population": 1318110,
+        "cities": [
+          "Mahbubnagar"
+        ]
+      },
+      {
+        "name": "Mancherial",
+        "population": 807037,
+        "cities": []
+      },
+      {
+        "name": "Medak",
+        "population": 767428,
+        "cities": []
+      },
+      {
+        "name": "Medchal-Malkajgiri",
+        "population": 2542203,
+        "cities": []
+      },
+      {
+        "name": "Mulugu",
+        "population": 294671,
+        "cities": []
+      },
+      {
+        "name": "Nalgonda",
+        "population": 1631399,
+        "cities": [
+          "Suryapet",
+          "Nalgonda",
+          "Miryalaguda"
+        ]
+      },
+      {
+        "name": "Narayanpet",
+        "population": 566874,
+        "cities": []
+      },
+      {
+        "name": "Nagarkurnool",
+        "population": 893308,
+        "cities": []
+      },
+      {
+        "name": "Nirmal",
+        "population": 709415,
+        "cities": []
+      },
+      {
+        "name": "Nizamabad",
+        "population": 1534428,
+        "cities": [
+          "Nizamabad"
+        ]
+      },
+      {
+        "name": "Peddapalli",
+        "population": 795332,
+        "cities": []
+      },
+      {
+        "name": "Rajanna Sircilla",
+        "population": 546121,
+        "cities": []
+      },
+      {
+        "name": "Ranga Reddy",
+        "population": 2551731,
+        "cities": []
+      },
+      {
+        "name": "Sangareddy",
+        "population": 1527628,
+        "cities": []
+      },
+      {
+        "name": "Siddipet",
+        "population": 993376,
+        "cities": []
+      },
+      {
+        "name": "Suryapet",
+        "population": 1099560,
+        "cities": []
+      },
+      {
+        "name": "Vikarabad",
+        "population": 881250,
+        "cities": []
+      },
+      {
+        "name": "Wanaparthy",
+        "population": 751553,
+        "cities": []
+      },
+      {
+        "name": "Warangal Urban",
+        "population": 1135707,
+        "cities": []
+      },
+      {
+        "name": "Warangal Rural",
+        "population": 716457,
+        "cities": []
+      },
+      {
+        "name": "Yadadri Bhuvanagiri",
+        "population": 726465,
+        "cities": []
+      }
+    ]
+  },
+  "Tripura": {
+    "districts": [
+      {
+        "name": "Dhalai",
+        "population": 377988,
+        "cities": []
+      },
+      {
+        "name": "Gomati",
+        "population": 436868,
+        "cities": []
+      },
+      {
+        "name": "Khowai",
+        "population": 327391,
+        "cities": []
+      },
+      {
+        "name": "North Tripura",
+        "population": 415946,
+        "cities": []
+      },
+      {
+        "name": "Sepahijala",
+        "population": 484233,
+        "cities": []
+      },
+      {
+        "name": "South Tripura",
+        "population": 433737,
+        "cities": []
+      },
+      {
+        "name": "Unokoti",
+        "population": 277335,
+        "cities": []
+      },
+      {
+        "name": "West Tripura",
+        "population": 917534,
+        "cities": [
+          "Agartala"
+        ]
+      }
+    ]
+  },
+  "Uttar Pradesh": {
+    "districts": [
+      {
+        "name": "Agra",
+        "population": 4380793,
+        "cities": [
+          "Agra"
+        ]
+      },
+      {
+        "name": "Aligarh",
+        "population": 3673849,
+        "cities": [
+          "Aligarh"
+        ]
+      },
+      {
+        "name": "Prayagraj",
+        "population": 5959798,
+        "cities": []
+      },
+      {
+        "name": "Ambedkar Nagar",
+        "population": 2398709,
+        "cities": [
+          "Akbarpur"
+        ]
+      },
+      {
+        "name": "Amethi",
+        "population": 2549935,
+        "cities": []
+      },
+      {
+        "name": "Amroha",
+        "population": 1838771,
+        "cities": []
+      },
+      {
+        "name": "Auraiya",
+        "population": 1372287,
+        "cities": []
+      },
+      {
+        "name": "Azamgarh",
+        "population": 4616509,
+        "cities": [
+          "Azamgarh"
+        ]
+      },
+      {
+        "name": "Bagpat",
+        "population": 1302156,
+        "cities": []
+      },
+      {
+        "name": "Bahraich",
+        "population": 2384239,
+        "cities": [
+          "Bahraich"
+        ]
+      },
+      {
+        "name": "Ballia",
+        "population": 3223642,
+        "cities": [
+          "Ballia"
+        ]
+      },
+      {
+        "name": "Balrampur",
+        "population": 2149066,
+        "cities": []
+      },
+      {
+        "name": "Banda",
+        "population": 1799541,
+        "cities": [
+          "Banda"
+        ]
+      },
+      {
+        "name": "Barabanki",
+        "population": 3257983,
+        "cities": []
+      },
+      {
+        "name": "Bareilly",
+        "population": 4465344,
+        "cities": [
+          "Bareilly"
+        ]
+      },
+      {
+        "name": "Basti",
+        "population": 2461056,
+        "cities": [
+          "Basti"
+        ]
+      },
+      {
+        "name": "Bhadohi",
+        "population": 1554203,
+        "cities": []
+      },
+      {
+        "name": "Bijnor",
+        "population": 3683896,
+        "cities": []
+      },
+      {
+        "name": "Budaun",
+        "population": 3712738,
+        "cities": [
+          "Budaun"
+        ]
+      },
+      {
+        "name": "Bulandshahr",
+        "population": 3498507,
+        "cities": [
+          "Bulandshahr",
+          "Khurja"
+        ]
+      },
+      {
+        "name": "Chandauli",
+        "population": 1952713,
+        "cities": [
+          "Mughalsarai"
+        ]
+      },
+      {
+        "name": "Chitrakoot",
+        "population": 990626,
+        "cities": []
+      },
+      {
+        "name": "Deoria",
+        "population": 3098637,
+        "cities": [
+          "Deoria"
+        ]
+      },
+      {
+        "name": "Etah",
+        "population": 1761152,
+        "cities": [
+          "Etah"
+        ]
+      },
+      {
+        "name": "Etawah",
+        "population": 1579160,
+        "cities": [
+          "Etawah"
+        ]
+      },
+      {
+        "name": "Ayodhya",
+        "population": 2468371,
+        "cities": []
+      },
+      {
+        "name": "Farrukhabad",
+        "population": 1887577,
+        "cities": [
+          "Farrukhabad"
+        ]
+      },
+      {
+        "name": "Fatehpur",
+        "population": 2632684,
+        "cities": [
+          "Fatehpur"
+        ]
+      },
+      {
+        "name": "Firozabad",
+        "population": 2496761,
+        "cities": [
+          "Firozabad",
+          "Shikohabad"
+        ]
+      },
+      {
+        "name": "Gautam Buddh Nagar",
+        "population": 1674714,
+        "cities": []
+      },
+      {
+        "name": "Ghaziabad",
+        "population": 4661452,
+        "cities": [
+          "Modinagar",
+          "Loni",
+          "Ghaziabad",
+          "Khora",
+          "Hapur"
+        ]
+      },
+      {
+        "name": "Ghazipur",
+        "population": 3622727,
+        "cities": [
+          "Ghazipur"
+        ]
+      },
+      {
+        "name": "Gonda",
+        "population": 3431386,
+        "cities": [
+          "Gonda"
+        ]
+      },
+      {
+        "name": "Gorakhpur",
+        "population": 4436275,
+        "cities": [
+          "Gorakhpur"
+        ]
+      },
+      {
+        "name": "Hamirpur",
+        "population": 1104021,
+        "cities": []
+      },
+      {
+        "name": "Hapur",
+        "population": 1338211,
+        "cities": []
+      },
+      {
+        "name": "Hardoi",
+        "population": 4091380,
+        "cities": [
+          "Hardoi"
+        ]
+      },
+      {
+        "name": "Hathras",
+        "population": 1565678,
+        "cities": []
+      },
+      {
+        "name": "Jalaun",
+        "population": 1670718,
+        "cities": [
+          "Orai"
+        ]
+      },
+      {
+        "name": "Jaunpur",
+        "population": 4476072,
+        "cities": [
+          "Jaunpur"
+        ]
+      },
+      {
+        "name": "Jhansi",
+        "population": 2000755,
+        "cities": [
+          "Jhansi"
+        ]
+      },
+      {
+        "name": "Kannauj",
+        "population": 1658005,
+        "cities": []
+      },
+      {
+        "name": "Kanpur Dehat",
+        "population": 1795092,
+        "cities": []
+      },
+      {
+        "name": "Kanpur Nagar",
+        "population": 4572951,
+        "cities": [
+          "Kanpur"
+        ]
+      },
+      {
+        "name": "Kasganj",
+        "population": 1438156,
+        "cities": []
+      },
+      {
+        "name": "Kaushambi",
+        "population": 1596909,
+        "cities": []
+      },
+      {
+        "name": "Kushinagar",
+        "population": 3560830,
+        "cities": []
+      },
+      {
+        "name": "Lakhimpur Kheri",
+        "population": 4013634,
+        "cities": []
+      },
+      {
+        "name": "Lalitpur",
+        "population": 1218002,
+        "cities": [
+          "Lalitpur"
+        ]
+      },
+      {
+        "name": "Lucknow",
+        "population": 4588455,
+        "cities": [
+          "Lucknow"
+        ]
+      },
+      {
+        "name": "Maharajganj",
+        "population": 2665292,
+        "cities": []
+      },
+      {
+        "name": "Mahoba",
+        "population": 876055,
+        "cities": []
+      },
+      {
+        "name": "Mainpuri",
+        "population": 1847194,
+        "cities": [
+          "Mainpuri"
+        ]
+      },
+      {
+        "name": "Mathura",
+        "population": 2541894,
+        "cities": [
+          "Mathura"
+        ]
+      },
+      {
+        "name": "Mau",
+        "population": 2205170,
+        "cities": [
+          "Maunath Bhanjan"
+        ]
+      },
+      {
+        "name": "Meerut",
+        "population": 3447405,
+        "cities": [
+          "Meerut"
+        ]
+      },
+      {
+        "name": "Mirzapur",
+        "population": 2494533,
+        "cities": [
+          "Mirzapur"
+        ]
+      },
+      {
+        "name": "Moradabad",
+        "population": 4773138,
+        "cities": [
+          "Moradabad",
+          "Sambhal",
+          "Chandausi"
+        ]
+      },
+      {
+        "name": "Muzaffarnagar",
+        "population": 4138605,
+        "cities": [
+          "Shamli",
+          "Muzaffarnagar"
+        ]
+      },
+      {
+        "name": "Pilibhit",
+        "population": 2037225,
+        "cities": [
+          "Pilibhit"
+        ]
+      },
+      {
+        "name": "Pratapgarh",
+        "population": 3173752,
+        "cities": []
+      },
+      {
+        "name": "Raebareli",
+        "population": 3404004,
+        "cities": []
+      },
+      {
+        "name": "Rampur",
+        "population": 2335398,
+        "cities": [
+          "Rampur"
+        ]
+      },
+      {
+        "name": "Saharanpur",
+        "population": 3464228,
+        "cities": [
+          "Saharanpur"
+        ]
+      },
+      {
+        "name": "Sambhal",
+        "population": 2217020,
+        "cities": []
+      },
+      {
+        "name": "Sant Kabir Nagar",
+        "population": 1714300,
+        "cities": []
+      },
+      {
+        "name": "Shahjahanpur",
+        "population": 3002376,
+        "cities": [
+          "Shahjahanpur"
+        ]
+      },
+      {
+        "name": "Shamli",
+        "population": 1274815,
+        "cities": []
+      },
+      {
+        "name": "Shravasti",
+        "population": 1114615,
+        "cities": []
+      },
+      {
+        "name": "Siddharthnagar",
+        "population": 2553526,
+        "cities": []
+      },
+      {
+        "name": "Sitapur",
+        "population": 4474446,
+        "cities": [
+          "Sitapur"
+        ]
+      },
+      {
+        "name": "Sonbhadra",
+        "population": 1862612,
+        "cities": []
+      },
+      {
+        "name": "Sultanpur",
+        "population": 3790922,
+        "cities": [
+          "Sultanpur"
+        ]
+      },
+      {
+        "name": "Unnao",
+        "population": 3110595,
+        "cities": [
+          "Unnao"
+        ]
+      },
+      {
+        "name": "Varanasi",
+        "population": 3682194,
+        "cities": [
+          "Varanasi"
+        ]
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "districts": [
+      {
+        "name": "Almora",
+        "population": 621927,
+        "cities": []
+      },
+      {
+        "name": "Bageshwar",
+        "population": 259840,
+        "cities": []
+      },
+      {
+        "name": "Chamoli",
+        "population": 391114,
+        "cities": []
+      },
+      {
+        "name": "Champawat",
+        "population": 259315,
+        "cities": []
+      },
+      {
+        "name": "Dehradun",
+        "population": 1698560,
+        "cities": [
+          "Dehradun"
+        ]
+      },
+      {
+        "name": "Haridwar",
+        "population": 1927029,
+        "cities": []
+      },
+      {
+        "name": "Nainital",
+        "population": 955128,
+        "cities": [
+          "Haldwani"
+        ]
+      },
+      {
+        "name": "Pauri Garhwal",
+        "population": 686527,
+        "cities": []
+      },
+      {
+        "name": "Pithoragarh",
+        "population": 485993,
+        "cities": []
+      },
+      {
+        "name": "Rudraprayag",
+        "population": 236857,
+        "cities": []
+      },
+      {
+        "name": "Tehri Garhwal",
+        "population": 616409,
+        "cities": []
+      },
+      {
+        "name": "Udham Singh Nagar",
+        "population": 1648367,
+        "cities": [
+          "Kashipur",
+          "Rudrapur"
+        ]
+      },
+      {
+        "name": "Uttarkashi",
+        "population": 329686,
+        "cities": []
+      }
+    ]
+  },
+  "West Bengal": {
+    "districts": [
+      {
+        "name": "Alipurduar",
+        "population": 1700000,
+        "cities": []
+      },
+      {
+        "name": "Bankura",
+        "population": 3596292,
+        "cities": [
+          "Bankura"
+        ]
+      },
+      {
+        "name": "Paschim Bardhaman",
+        "population": 2882031,
+        "cities": []
+      },
+      {
+        "name": "Purba Bardhaman",
+        "population": 4835532,
+        "cities": []
+      },
+      {
+        "name": "Birbhum",
+        "population": 3502387,
+        "cities": []
+      },
+      {
+        "name": "Cooch Behar",
+        "population": 2822780,
+        "cities": []
+      },
+      {
+        "name": "Dakshin Dinajpur",
+        "population": 1670931,
+        "cities": [
+          "Balurghat"
+        ]
+      },
+      {
+        "name": "Darjeeling",
+        "population": 1842034,
+        "cities": []
+      },
+      {
+        "name": "Hooghly",
+        "population": 5520389,
+        "cities": []
+      },
+      {
+        "name": "Howrah",
+        "population": 4841638,
+        "cities": []
+      },
+      {
+        "name": "Jalpaiguri",
+        "population": 3869675,
+        "cities": [
+          "Dabgram",
+          "Jalpaiguri"
+        ]
+      },
+      {
+        "name": "Jhargram",
+        "population": 1136548,
+        "cities": []
+      },
+      {
+        "name": "Kalimpong",
+        "population": 251642,
+        "cities": []
+      },
+      {
+        "name": "Kolkata",
+        "population": 4486679,
+        "cities": [
+          "Kolkata"
+        ]
+      },
+      {
+        "name": "Maldah",
+        "population": 3997970,
+        "cities": []
+      },
+      {
+        "name": "Murshidabad",
+        "population": 7102430,
+        "cities": [
+          "Berhampore"
+        ]
+      },
+      {
+        "name": "Nadia",
+        "population": 5168488,
+        "cities": [
+          "Nabadwip",
+          "Krishnanagar",
+          "Santipur",
+          "Kalyani"
+        ]
+      },
+      {
+        "name": "North 24 Parganas",
+        "population": 10082852,
+        "cities": []
+      },
+      {
+        "name": "Paschim Medinipur",
+        "population": 5094238,
+        "cities": [
+          "Medinipur",
+          "Kharagpur"
+        ]
+      },
+      {
+        "name": "Purba Medinipur",
+        "population": 4417377,
+        "cities": [
+          "Haldia"
+        ]
+      },
+      {
+        "name": "Purulia",
+        "population": 2927965,
+        "cities": []
+      },
+      {
+        "name": "South 24 Parganas",
+        "population": 8153176,
+        "cities": []
+      },
+      {
+        "name": "Uttar Dinajpur",
+        "population": 3000849,
+        "cities": [
+          "Raiganj"
+        ]
+      }
+    ]
+  },
+  "Andaman and Nicobar": {
+    "districts": [
+      {
+        "name": "Nicobar",
+        "population": 36842,
+        "cities": []
+      },
+      {
+        "name": "North and Middle Andaman",
+        "population": 105597,
+        "cities": []
+      },
+      {
+        "name": "South Andaman",
+        "population": 238142,
+        "cities": [
+          "Port Blair"
+        ]
+      }
+    ]
+  },
+  "Chandigarh": {
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "population": 1055450,
+        "cities": [
+          "Chandigarh"
+        ]
+      }
+    ]
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "districts": [
+      {
+        "name": "Daman",
+        "population": 191173,
+        "cities": []
+      },
+      {
+        "name": "Diu",
+        "population": 52074,
+        "cities": []
+      },
+      {
+        "name": "Dadra and Nagar Haveli",
+        "population": 343709,
+        "cities": []
+      }
+    ]
+  },
+  "Jammu and Kashmir": {
+    "districts": [
+      {
+        "name": "Anantnag",
+        "population": 1070144,
+        "cities": [
+          "Anantnag"
+        ]
+      },
+      {
+        "name": "Bandipora",
+        "population": 385099,
+        "cities": []
+      },
+      {
+        "name": "Baramulla",
+        "population": 1015503,
+        "cities": []
+      },
+      {
+        "name": "Badgam",
+        "population": 735753,
+        "cities": []
+      },
+      {
+        "name": "Doda",
+        "population": 409576,
+        "cities": []
+      },
+      {
+        "name": "Ganderbal",
+        "population": 297003,
+        "cities": []
+      },
+      {
+        "name": "Jammu",
+        "population": 1526406,
+        "cities": [
+          "Jammu"
+        ]
+      },
+      {
+        "name": "Kathua",
+        "population": 615711,
+        "cities": []
+      },
+      {
+        "name": "Kishtwar",
+        "population": 230696,
+        "cities": []
+      },
+      {
+        "name": "Kulgam",
+        "population": 422786,
+        "cities": []
+      },
+      {
+        "name": "Kupwara",
+        "population": 875564,
+        "cities": []
+      },
+      {
+        "name": "Poonch",
+        "population": 476820,
+        "cities": []
+      },
+      {
+        "name": "Pulwama",
+        "population": 570060,
+        "cities": []
+      },
+      {
+        "name": "Rajouri",
+        "population": 619266,
+        "cities": []
+      },
+      {
+        "name": "Ramban",
+        "population": 283313,
+        "cities": []
+      },
+      {
+        "name": "Reasi",
+        "population": 314714,
+        "cities": []
+      },
+      {
+        "name": "Samba",
+        "population": 318611,
+        "cities": []
+      },
+      {
+        "name": "Shopian",
+        "population": 265960,
+        "cities": []
+      },
+      {
+        "name": "Srinagar",
+        "population": 1269751,
+        "cities": [
+          "Srinagar"
+        ]
+      },
+      {
+        "name": "Udhampur",
+        "population": 555357,
+        "cities": []
+      }
+    ]
+  },
+  "Ladakh": {
+    "districts": [
+      {
+        "name": "Kargil",
+        "population": 143388,
+        "cities": []
+      },
+      {
+        "name": "Leh",
+        "population": 147104,
+        "cities": []
+      }
+    ]
+  },
+  "Lakshadweep": {
+    "districts": [
+      {
+        "name": "Lakshadweep",
+        "population": 64473,
+        "cities": []
+      }
+    ]
+  },
+  "Delhi": {
+    "districts": [
+      {
+        "name": "Central Delhi",
+        "population": 582320,
+        "cities": []
+      },
+      {
+        "name": "East Delhi",
+        "population": 1709346,
+        "cities": []
+      },
+      {
+        "name": "New Delhi",
+        "population": 142004,
+        "cities": []
+      },
+      {
+        "name": "North Delhi",
+        "population": 887978,
+        "cities": []
+      },
+      {
+        "name": "North East Delhi",
+        "population": 2241624,
+        "cities": []
+      },
+      {
+        "name": "North West Delhi",
+        "population": 3656539,
+        "cities": []
+      },
+      {
+        "name": "Shahdara",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "South Delhi",
+        "population": 2731929,
+        "cities": []
+      },
+      {
+        "name": "South East Delhi",
+        "population": 0,
+        "cities": []
+      },
+      {
+        "name": "South West Delhi",
+        "population": 2292958,
+        "cities": []
+      },
+      {
+        "name": "West Delhi",
+        "population": 2543243,
+        "cities": []
+      }
+    ]
+  },
+  "Puducherry": {
+    "districts": [
+      {
+        "name": "Karaikal",
+        "population": 200222,
+        "cities": []
+      },
+      {
+        "name": "Mah\u00e9",
+        "population": 41816,
+        "cities": []
+      },
+      {
+        "name": "Pondicherry",
+        "population": 950289,
+        "cities": []
+      },
+      {
+        "name": "Yanam",
+        "population": 55626,
+        "cities": []
+      }
+    ]
+  }
+}

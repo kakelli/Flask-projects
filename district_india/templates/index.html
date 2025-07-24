@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title> Indian District Information</title>
+        <style>
+            body{
+                font-family: Arial, sans-serif;
+                margin: 2em;
+                background: #f9f9f9;
+            }
+            input, button{
+                padding: 0.6em;
+                margin: 0.4em 0;
+            }
+            ul{
+                list-style-type: none;
+                padding: 0;
+            }
+            li{
+                background: #fff;
+                padding: 1em;
+                margin-bottom: 1em;
+                border-radius: 8px;
+                box-shadow: 0 0 5px #ccc;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Indian State Explorer</h1>
+        <form method="POST">
+            <input type="text" name="state_name" placeholder="Enter State Name..." required>
+            <button type="submit">Search</button>
+        </form>
+
+        {%if state_name%}
+            <h2> Results for "{{state_name}}"</h2>
+            {%if state_info%}
+                <ul>
+                    {%for district in state_info['districts']%}
+                        <li>
+                            <strong> {{district.name}} </strong><br>
+                            Population: {{district.population}}<br>
+                            Cities: {{",".join(district.cities)}}
+                        </li>
+                    {%endfor%}
+                </ul>
+            {%else%}
+                <p> State not found. Please check the spelling or enter the correct state of India</p>
+            {%endif%}
+        {%endif%}
+    </body>
+</html>

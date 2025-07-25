@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="{{url_for('static', filename = 'css/style.css')}}">
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+        <script  src="{{url_for('static', filename = 'js/script.js')}}" defer> 
+        </script>
+    </head>
+    <body>
+        <h1 class="periodic-title"> Periodic Table of Elements </h1>
+        <div class="periodic-table">
+            {%for element in elements %}
+                <div class="element-block"
+                     data-symbol="{{element.symbol}}"
+                     data-name="{{element.name}}"
+                     data-number="{{element.number}}"
+                     data-category="{{element.category}}"
+                     data-weight = "{{element.atomic_mass}}"
+                     data-db = "{{element.discovered_by}}"
+                     style="grid-column: {{ element.xpos }}; grid-row: {{ element.ypos }};">
+
+                     <div class="symbol">{{element.symbol}}</div>
+                     <div class="number">{{element.number}}</div>
+                </div>
+            {% endfor %}
+
+            <div id="hover-details" class="detail-popup">
+                <p id="detail-symbol"></p>
+                <p id="detail-symbol"></p>
+                <p id="detail-name"></p>
+                <p id="detail-number"></p>
+                <p id="detail-category"></p>
+                <p id="detail-weight"></p>
+                <p id="detail-db"></p>
+            </div>
+        </div>
+    </body>
+</html>

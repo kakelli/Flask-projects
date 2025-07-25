@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>{{element.name}} ({{element.symbol}})</title>
+        <link rel="stylesheet" href="{{url_for('static', filename-'css/style.css')}}">
+    </head>
+    <body class="element-page">
+        <h1> {{element.name}} <span> ({{element.symbol}})</span></h1>
+
+        <p><strong>Atomic Number: </strong>{{element.number}}</p>
+        <p><strong>Atomic Mass: </strong>{{element.atomic_mass}}</p>
+        <p><strong>Appearance: </strong>{{element.apperance or "N/A"}}</p>
+        <p><strong>Category: </strong>{{element.category}} </p>
+        <p><strong>Phase: </strong>{{element.phase}}</p>
+        <p><strong>Density: </strong>{{element.desity}}</p>
+
+        <p><strong>Boiling Point: </strong>{{element.boil}} </p>
+        <p><strong>Melting Point: </strong>{{element.melt}}</p>
+        <p> <strong> Molar Heat: </strong>{{element.molar_heat}}</p>
+
+        <p><strong>Discovered By: </strong>{{element.discovered_by}}</p>
+        <p><strong>Named by: </strong>{{element.named_by or "Unknown}}</p>
+        <p><strong>Electron Configuration</strong>{{element.electron_configuration}}</p>
+        <p><strong>Electron Affinity</strong>{{element.electron_affinity}}</p>
+        <p><strong>Electronegativity (Pauling)</strong>{{element.electonegativity_pauling}}</p>
+
+        <p><strong>Ionization Energies: </strong>
+            <ul> 
+                {%for enegry in element.ionization_energies %}
+                    <li> {{energy}} </li>
+                {%endfor%}
+            </ul>    
+        </p>
+        <p><strong>Electon Shells: </strong>
+            <ul>
+                {% for shell in element.electron_shells %}
+                    <li> {{shell}} </li>
+                {% endfor %}
+            </ul>
+        </p>
+        <p><strong>CPK Hex Code: </strong>#{{element.cpk_hex}}</p>
+        <p><strong>Block: </strong>{{element.block}} </p>
+        <p><strong>Period: </strong>{{element.period}}</p>
+
+        <p><strong>Summary: </strong>{{element.summary}}</p>
+
+        <p><strong>Wikipedia: </strong><a href="{{element.source}}" target="_blank">{{element.source}}</a></p>
+
+        {%if element.bohr_model_image %}
+            <img src="{{element.bohr_model_image }}" alt="Bohr Model Image"/>
+        {%endif%}
+        {%if element.spectral_img%}
+            <img src="{{element.spectral_img}}" alt="Spectral Image"/>
+        {%endif%}
+
+        {%if element.image%}
+            <img src="{{element.image.title}}" alt="{{element.image.title}}">
+            <p><em>{{element.image.title}}</em></p>
+            <p><small>{{element.image.attribution}}</small></p>
+        {%endif%}
+
+        <br>
+        <a href="/periodic-table"> Back to Periodic table</a>
+    </body>
+</html>

@@ -16,6 +16,7 @@
                      data-category="{{element.category}}"
                      data-weight = "{{element.atomic_mass}}"
                      data-db = "{{element.discovered_by}}"
+                     data-url="https://en.wikipedia.org/wiki/{{element.name | replace(' ', '_')}}"
                      style="grid-column: {{ element.xpos }}; grid-row: {{ element.ypos }};">
 
                      <div class="symbol">{{element.symbol}}</div>

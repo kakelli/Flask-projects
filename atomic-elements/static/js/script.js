@@ -32,4 +32,11 @@ document.querySelectorAll('.element-block').forEach(elem => {
     elem.addEventListener('mouseleave', () => {
         detailBox.style.display = 'none';
     });
+
+    elem.addEventListener('click', () => {
+        const url = elem.dataset.url;
+        if (url){
+            window.open(url, '_blank');
+        }
+    });
 });

@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+        <title>Integration Result</title>
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+    </head>
+    <body>
+        <div class="math-symbols"></div>
+        <div class="math-symbols">
+            <span style = "top: 80%; left:2 0%">∫</span>
+            <span style="top: 90%; left: 60%;"> π</span>
+            <span style="top: 70%; left: 40%;"> √</span>
+            <span style="top: 85%; left: 75%;">Σ</span>
+        </div>
+        <div class="container">
+            <h1> Integration Result</h1>
+
+            {%if result%}
+                <div class="result-box">
+                    <h2>Final answer is: </h2>
+                    <p>\[ {{result}} \]</p>
+                </div>
+            {%else%}
+                <p>No result to display</p>
+            {%endif%}
+
+            <a href="{{url_for('index')}}" class="back-button">Back to Calculator</a>
+        </div>
+        <script>
+            const symbols = ['∫', 'π', '√', 'Σ'];
+            const container = document.querySelector('.math-symbols');
+
+            for (let i=0; i<40; i++){
+                const span = document.createElement('span');
+                span.textContent = symbols[Math.floor(Math.random() * symbols.length)];
+
+                span.style.top = Math.random() * window.innerHeight + 'px';
+                span.style.left = Math.random() * window.innerWidth + 'px';
+
+                span.style.fontSize = (1+Math.random()*2)+'rem';
+                span.style.animationDuration = (8+Math.random()*12) + 's';
+                span.style.animationDelay = Math.random()*10 + 's';
+
+                span.classList.add('float-symbol');
+                container.appendChild(span);
+            };
+            function submitform(){
+                document.getElementById('overlay').style.display = 'flex';
+                setTimeout(() => {
+                    document.getElementById('integrate-from').submit();
+                }, 2500);
+            };  
+         </script>
+    </body>
+</html>

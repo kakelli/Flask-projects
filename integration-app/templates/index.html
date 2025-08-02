@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <link rel="stylesheet" href = '{{url_for("static",  filename = "style.css")}}'>
+        <title>Integration Calculator</title>
+    </head>
+    <body>
+        <div class="math-symbols"></div>
+        <div class="math-symbols">
+            <span style = "top: 80%; left:2 0%">∫</span>
+            <span style="top: 90%; left: 60%;"> π</span>
+            <span style="top: 70%; left: 40%;"> √</span>
+            <span style="top: 85%; left: 75%;">Σ</span>
+        </div>
+        <div class="container">
+            <h1> Integration Calculator </h1>
+            <form id="integrate-from" action="/result" method="POST">
+                <label for="expression">Enter Expression: </label>
+                <input type="text" id="expression" name= 'expression' placeholder="e.g. x**2 + sin(x)" required>
+
+                <label for="lower_limit">Lower Limit (optional): </label>
+                <input type="text" id='lower_limit' name="lower_limit" placeholder="e.g. 0">
+
+                <label for="upper_limit">Upper Limit (optional): </label>
+                <input type="text" id="upper_limit" name="upper_limit" placeholder="e.g. 1  ">
+
+                <button onclick="submitform()"> Integrate </button> 
+            </form>
+        </div>
+
+        <div id="overlay">
+            <div class="message">Consulting Newton...</div>
+        </div>
+        <script>
+            const symbols = ['∫', 'π', '√', 'Σ'];
+            const container = document.querySelector('.math-symbols');
+
+            for (let i=0; i<40; i++){
+                const span = document.createElement('span');
+                span.textContent = symbols[Math.floor(Math.random() * symbols.length)];
+
+                span.style.top = Math.random() * window.innerHeight + 'px';
+                span.style.left = Math.random() * window.innerWidth + 'px';
+
+                span.style.fontSize = (1+Math.random()*2)+'rem';
+                span.style.animationDuration = (8+Math.random()*12) + 's';
+                span.style.animationDelay = Math.random()*10 + 's';
+
+                span.classList.add('float-symbol');
+                container.appendChild(span);
+            };
+            function submitform(){
+                const exprerssionInput = document.getElementById('expression');
+                const expr = exprerssionInput.value.trim();
+
+                if(!expr){
+                    exprerssionInput.style.border = '2px solid red';
+                    alert('Please enter something');
+                    return;
+                }
+
+                exprerssionInput.style.border == "";
+
+                document.getElementById('overlay').style.display = 'flex';
+                setTimeout(() => {
+                    document.getElementById('integrate-from').submit();
+                }, 2500);
+            };
+
+            document.getElementById('expression').addEventListener('input', function(){
+                this.style.border = ""
+            })
+         </script>
+    </body>
+</html>

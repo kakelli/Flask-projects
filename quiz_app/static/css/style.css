@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body.quiz-page{
+    margin: 0;
+    padding: 0;
+    background-color: #87CEEB;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body.login-page{
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #d1eaf5, #8fcce3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-wrapper{
+    background-color: #ffffff;
+    padding: 2em;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+
+}
+
+.login-title{
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+.login-subtitle{
+    font-size: 1em;
+    margin-bottom: 2em;
+    color: #666;
+}
+
+.login-input{
+    width: 100%;
+    padding: 0.8em;
+    margin-bottom: 1.2em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1em;
+}
+
+.login-button{
+    padding: 0.1em 1.5em;
+    background-color: #6ba8e5;
+    color: white;   
+    border: none;
+    border-radius: 9px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 0.5em;
+}
+
+.login-button:hover{
+    background-color: #4d91d0;
+}
+
+.quiz-container{
+    max-width: 700px;
+    margin: 6em auto 4em;
+    padding: 2em;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.quiz-container h2{
+    margin-bottom: 1.5em;
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.question{
+    margin-bottom: 1em;
+}
+
+.question p{
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.question label{
+    display: block;
+    margin: 0.3em 0;
+}
+
+button[type='submit']{
+    padding: 0.8em 1.2em;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1em;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    align-self: center;
+}
+
+button[type='submit']:hover{
+    background-color: #388e3c;
+}
+
+.container, .main-wrapper{
+    overflow: visible;
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    text-align: right;
+}
+
+.option{
+    display: flex;
+}
